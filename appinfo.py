@@ -12,7 +12,7 @@ st.set_page_config(
 )
 
 # ----------------------------------------------------
-# CSS PERSONALIZADO (VISUAL PROFISSIONAL)
+# CSS PERSONALIZADO
 # ----------------------------------------------------
 st.markdown("""
 <style>
@@ -73,7 +73,7 @@ st.markdown("""
 
 
 # ----------------------------------------------------
-# TELA INICIAL PROFISSIONAL
+# TELA INICIAL
 # ----------------------------------------------------
 def exibir_tela_inicial():
 
@@ -136,7 +136,7 @@ descricao_infovias = {
 
 
 # ----------------------------------------------------
-# TELA DE MAPA INTERATIVO PROFISSIONAL
+# TELA DE MAPA INTERATIVO 
 # ----------------------------------------------------
 def exibir_mapa(df):
 
